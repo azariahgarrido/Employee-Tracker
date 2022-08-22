@@ -12,6 +12,10 @@ information.
 "inquirer": "^8.1.0",
 "mysql2": "^2.3.3"
 
+##Walkthrough Video
+
+Google Drive: https://drive.google.com/file/d/1y_XxuBlNG8FJi3uYFj3t0tMtNaEj2xjB/view
+
 
 ## Usage
 
