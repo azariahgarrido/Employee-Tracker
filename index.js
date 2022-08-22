@@ -20,7 +20,6 @@ const mainMenu = async () => {
         "Update employee manager",
         "View employees by manager",
         "View employees by department",
-
         "Delete a department",
         "Delete a role",
         "Delete an employee",
